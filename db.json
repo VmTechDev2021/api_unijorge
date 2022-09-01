@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+    "id": 1,
+    "nome": "Rogério Barreto",
+    "email": "rogerio.barreto@proa.ai",
+    "curso": "DIREITO",
+	"status": "CURSANDO",
+	"modalidade": "PRESENCIAL",
+	"tipo_graduacao": "GRADUAÇÃO"
+  },
+  {
+    "id": 2,
+    "nome": "Vitor Viscome",
+    "email": "vitor.viscome@proa.ai",
+    "curso": "ARQUITETURA",
+	"status": "CONCLUIDO",
+	"modalidade": "PRESENCIAL",
+	"tipo_graduacao": "GRADUAÇÃO"
+  },
+  {
+    "id": 3,
+    "nome": "Gabriela Morais",
+    "email": "gabriela.morais@proa.ai",
+    "curso": "ENFERMAGEM",
+	"status": "TRANCADO",
+	"modalidade": "EAD",
+	"tipo_graduacao": "GRADUAÇÃO"
+  },
+  {
+    "id": 4,
+    "nome": "Alex Passomato",
+    "email": "alex.passomato@proa.ai",
+    "curso": "ARQUITETURA",
+	"status": "CONCLUIDO",
+	"modalidade": "PRESENCIAL",
+	"tipo_graduacao": "GRADUAÇÃO"
+  }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
