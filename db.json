@@ -15,7 +15,7 @@
     "email": "vitor.viscome@proa.ai",
     "curso": "ARQUITETURA",
 	"status": "CONCLUIDO",
-	"modalidade": "PRESENCIAL",
+	"modalidade": "EAD",
 	"tipo_graduacao": "GRADUAÇÃO"
   },
   {
@@ -59,7 +59,7 @@
     "nome": "Tatiane Ferrarezi",
     "email": "ferrarezi@proa.ai",
     "curso": "LETRAS",
-	"status": "CONCLUIDO",
+	"status": "TRANCADO",
 	"modalidade": "PRESENCIAL",
 	"tipo_graduacao": "GRADUAÇÃO"
   },
