@@ -7,7 +7,21 @@
     "curso": "DIREITO",
 	"status": "CURSANDO",
 	"modalidade": "PRESENCIAL",
-	"tipo_graduacao": "GRADUAÇÃO"
+	"tipo_graduacao": "GRADUAÇÃO",
+	"boletos": [
+	{
+	"valor":"150.80",
+	"data":"2022-09"
+	},
+	{
+	"valor":"150.80",
+	"data":"2022-10"
+	},
+	{
+	"valor":"150.80",
+	"data":"2022-11"
+	}
+      ]
   },
   {
     "id": 1,
@@ -52,7 +66,21 @@
     "curso": "CIENCIA DA COMPUTAÇÃO",
 	"status": "CURSANDO",
 	"modalidade": "EAD",
-	"tipo_graduacao": "GRADUAÇÃO"
+	"tipo_graduacao": "GRADUAÇÃO",
+	"boletos": [
+	{
+	"valor":"180.75",
+	"data":"2022-09"
+	},
+	{
+	"valor":"180.75",
+	"data":"2022-10"
+	},
+	{
+	"valor":"180.75",
+	"data":"2022-11"
+	}
+      ]
   },
   {
     "id": 6,
@@ -70,7 +98,21 @@
     "curso": "ADMINISTRAÇÃO",
 	"status": "CURSANDO",
 	"modalidade": "EAD",
-	"tipo_graduacao": "GRADUAÇÃO"
+	"tipo_graduacao": "GRADUAÇÃO",
+	"boletos": [
+	{
+	"valor":"296.75",
+	"data":"2022-09"
+	},
+	{
+	"valor":"296.75",
+	"data":"2022-10"
+	},
+	{
+	"valor":"296.75",
+	"data":"2022-11"
+	}
+      ]
   }
   ],
   "profile": {
