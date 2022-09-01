@@ -1,7 +1,7 @@
 {
   "posts": [
     {
-    "id": 1,
+    "id": 0,
     "nome": "Rogério Barreto",
     "email": "rogerio.barreto@proa.ai",
     "curso": "DIREITO",
@@ -10,16 +10,16 @@
 	"tipo_graduacao": "GRADUAÇÃO"
   },
   {
-    "id": 2,
+    "id": 1,
     "nome": "Vitor Viscome",
     "email": "vitor.viscome@proa.ai",
     "curso": "ARQUITETURA",
-	"status": "CONCLUÍDO",
+	"status": "CONCLUIDO",
 	"modalidade": "PRESENCIAL",
 	"tipo_graduacao": "GRADUAÇÃO"
   },
   {
-    "id": 3,
+    "id": 2,
     "nome": "Gabriela Morais",
     "email": "gabriela.morais@proa.ai",
     "curso": "ENFERMAGEM",
@@ -28,12 +28,48 @@
 	"tipo_graduacao": "GRADUAÇÃO"
   },
   {
-    "id": 4,
+    "id": 3,
     "nome": "Alex Passomato",
     "email": "alex.passomato@proa.ai",
     "curso": "ARQUITETURA",
 	"status": "CONCLUIDO",
 	"modalidade": "PRESENCIAL",
+	"tipo_graduacao": "GRADUAÇÃO"
+  },
+  {
+    "id": 4,
+    "nome": "Viviane Almeida",
+    "email": "viviane.almeida@proa.ai",
+    "curso": "LETRAS",
+	"status": "TRANCADO",
+	"modalidade": "EAD",
+	"tipo_graduacao": "GRADUAÇÃO"
+  },
+  {
+    "id": 5,
+    "nome": "Viviane Almeida",
+    "email": "viviane.almeida@proa.ai",
+    "curso": "LETRAS",
+	"status": "CURSANDO",
+	"modalidade": "EAD",
+	"tipo_graduacao": "GRADUAÇÃO"
+  },
+  {
+    "id": 6,
+    "nome": "Tatiane Ferrarezi",
+    "email": "ferrarezi@proa.ai",
+    "curso": "LETRAS",
+	"status": "CONCLUIDO",
+	"modalidade": "PRESENCIAL",
+	"tipo_graduacao": "GRADUAÇÃO"
+  },
+  {
+    "id": 7,
+    "nome": "Sarah Sacramento",
+    "email": "sarah.sacramento@proa.ai",
+    "curso": "ADMINISTRAÇÃO",
+	"status": "CURSANDO",
+	"modalidade": "EAD",
 	"tipo_graduacao": "GRADUAÇÃO"
   }
   ],
