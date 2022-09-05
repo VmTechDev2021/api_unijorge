@@ -17,8 +17,8 @@
   },
   {
     "id": 1,
-    "nome": "Vitor Viscome",
-    "email": "vitor.viscome@proa.ai",
+   "nome": "William Martins",
+    "email": "william.martins@proa.ai",
     "curso": "ARQUITETURA",
 	"status": "CONCLUIDO",
 	"modalidade": "EAD",
@@ -53,8 +53,8 @@
   },
   {
     "id": 5,
-    "nome": "William Martins",
-    "email": "william.martins@proa.ai",
+     "nome": "Vitor Viscome",
+    "email": "vitor.viscome@proa.ai",
     "curso": "CIENCIA DA COMPUTAÇÃO",
 	"status": "CURSANDO",
 	"modalidade": "EAD",
