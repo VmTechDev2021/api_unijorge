@@ -10,7 +10,7 @@
 	"tipo_graduacao": "GRADUAÇÃO",
 	"boletos": [
 	{
-	"valor":"150.80",
+	"valor":"150,80",
 	"data":"2022-09"
 	}
       ]
@@ -61,11 +61,11 @@
 	"tipo_graduacao": "GRADUAÇÃO",
 	"boletos": [
 	{
-	"valor":"180.75",
+	"valor":"180,75",
 	"data":"2022-09"
 	},
 	{
-	"valor":"180.75",
+	"valor":"180,75",
 	"data":"2022-10"
 	}
       ]
@@ -89,15 +89,15 @@
 	"tipo_graduacao": "GRADUAÇÃO",
 	"boletos": [
 	{
-	"valor":"296.75",
+	"valor":"296,75",
 	"data":"2022-09"
 	},
 	{
-	"valor":"296.75",
+	"valor":"296,75",
 	"data":"2022-10"
 	},
 	{
-	"valor":"296.75",
+	"valor":"296,75",
 	"data":"2022-11"
 	}
       ]
